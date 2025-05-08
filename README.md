@@ -18,3 +18,7 @@ Step 04:
 
 Step 5:
 Create shortcut keys for the Move Features and Undo Features actions. This allows you to perform these tasks easily without selecting the plugin each time, streamlining your workflow
+Shortcut keys are:
+'M' --> Move features.
+'Z' --> undo features.
+
