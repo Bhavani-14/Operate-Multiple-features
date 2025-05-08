@@ -1,24 +1,36 @@
-# Operate-Multiple-features
-Operate Multiple features -- Move Multiple features from Multiple layers at once.
+Operate multiple features: Easily move features across multiple layers at once in QGIS.
 
-Note: Install Plugin Reloader before the process.
+Note: Please install the Plugin Reloader before proceeding.
 
-Step 01:
-Open QGIS, go to Settings → User Profiles → Open Active Profile Folder → python → plugins, then copy the move_multiple_layer_features folder into that path. After that, close and reopen QGIS.
+Installation Steps
+Step 1: Add the Plugin to QGIS
+Open QGIS.
 
-Step 2:
-Install the Move Multiple Layer Features plugin through the Manage and Install Plugins dialog.
+Go to: Settings → User Profiles → Open Active Profile Folder → python → plugins.
 
-Step 3:
-In Plugin Reloader, select Reload Plugin and choose Move Multiple Layer Features.
+Copy the move_multiple_layer_features folder into the plugins directory.
 
-Step 04:
+Close and reopen QGIS.
 
-![image](https://github.com/user-attachments/assets/1e912d29-3c6d-4519-a1bf-0299fbf81bff)
+Step 2: Install the Plugin
+Open the Manage and Install Plugins dialog.
 
-Step 5:
-Create shortcut keys for the Move Features and Undo Features actions. This allows you to perform these tasks easily without selecting the plugin each time, streamlining your workflow
-Shortcut keys are:
-'M' --> Move features.
-'Z' --> undo features.
+Install Move Multiple Layer Features from the plugin list.
 
+Step 3: Reload Using Plugin Reloader
+Open the Plugin Reloader panel.
+
+Click Reload Plugin and select Move Multiple Layer Features.
+
+Workflow
+Select multiple features across multiple layers.
+
+Use shortcut keys to perform actions quickly without needing to access the plugin manually.
+
+Shortcut Keys
+Press M to move selected features.
+
+Press Z to undo the last move.
+
+Example
+![image](https://github.com/user-attachments/assets/4cfe4118-bb83-4267-91b1-dc568eee060f)
