@@ -36,3 +36,5 @@ Example
 
 ![image](https://github.com/user-attachments/assets/cd317bba-4706-4173-bc9b-5c4e10bb7f22)
 
+Note: Before processing, click on the plugin and then click on 'Process'.
+
