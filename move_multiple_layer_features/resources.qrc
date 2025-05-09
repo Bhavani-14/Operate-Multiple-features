@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/Move_Multiple_layer_features" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
