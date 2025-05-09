@@ -34,4 +34,5 @@ Press Z to undo the last move.
 
 Example
 
-![image](https://github.com/user-attachments/assets/4cfe4118-bb83-4267-91b1-dc568eee060f)
+![image](https://github.com/user-attachments/assets/cd317bba-4706-4173-bc9b-5c4e10bb7f22)
+
